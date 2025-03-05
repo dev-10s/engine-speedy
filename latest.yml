@@ -1,8 +1,8 @@
-version: 1.0.8
+version: 1.0.9
 files:
-  - url: speedyapp-Setup-1.0.8.exe
-    sha512: 5dbvLpDd3Gky8DDre8iFUCByo8UUqcn+etLhvTbMzrMOfY9V3PhHdnbgoEqG4U2YRHzU9RByJzjtr8Hg4l3sjA==
-    size: 100992327
-path: speedyapp-Setup-1.0.8.exe
-sha512: 5dbvLpDd3Gky8DDre8iFUCByo8UUqcn+etLhvTbMzrMOfY9V3PhHdnbgoEqG4U2YRHzU9RByJzjtr8Hg4l3sjA==
-releaseDate: '2025-03-03T11:02:00.670Z'
+  - url: speedyapp-Setup-1.0.9.exe
+    sha512: PYMaQKikWDqQM+hEb36YWd0m1zJ9R0hWZP+AuJpPjPybDnD0uHnDT2B/ubte1AKZocpB8HpcFxEXdirKMR5s+A==
+    size: 100992860
+path: speedyapp-Setup-1.0.9.exe
+sha512: PYMaQKikWDqQM+hEb36YWd0m1zJ9R0hWZP+AuJpPjPybDnD0uHnDT2B/ubte1AKZocpB8HpcFxEXdirKMR5s+A==
+releaseDate: '2025-03-05T10:24:21.755Z'
